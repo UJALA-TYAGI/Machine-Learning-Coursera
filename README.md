@@ -11,4 +11,5 @@ Topics include:
 The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
 Instructor : Andrew Ng
+
 About Instructor : Andrew Ng is Founder of DeepLearning.AI, General Partner at AI Fund, Chairman and Co-Founder of Coursera, and an Adjunct Professor at Stanford University. As a pioneer both in machine learning and online education, Dr. Ng has changed countless lives through his work in AI, authoring or co-authoring over 100 research papers in machine learning, robotics, and related fields. Previously, he was chief scientist at Baidu, the founding lead of the Google Brain team, and the co-founder of Coursera – the world's largest MOOC platform. Dr. Ng now focuses his time primarily on his entrepreneurial ventures, looking for the best ways to accelerate responsible AI practices in the larger global economy.
